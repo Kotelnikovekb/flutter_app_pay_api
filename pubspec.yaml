@@ -1,0 +1,10 @@
+name: flutter_app_pay_api
+description: "Thin, stable API for flutter_app_pay: shared interfaces and DTOs used by the core and provider plugins."
+version: 0.1.0
+homepage:
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  meta: ^1.16.0
